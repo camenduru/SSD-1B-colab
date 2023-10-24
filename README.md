@@ -19,6 +19,10 @@ https://openreview.net/forum?id=bOVydU0XKC
 ## Model
 https://huggingface.co/segmind/SSD-1B
 
+## Dataset
+https://huggingface.co/datasets/zzliang/GRIT <br />
+https://huggingface.co/datasets/wanng/midjourney-v5-202304-clean <br />
+
 ## Output
 
 ![Screenshot 2023-10-24 153135](https://github.com/camenduru/SSD-1B-colab/assets/54370274/76b4c4e5-e2c1-485f-9d0d-9b583de02278)
