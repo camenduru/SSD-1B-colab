@@ -20,4 +20,5 @@ https://huggingface.co/segmind/SSD-1B
 
 ## Output
 
+https://github.com/camenduru/SSD-1B-colab/assets/54370274/924ca0db-0e00-4a5c-8194-759f23bbe294
 
