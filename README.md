@@ -22,7 +22,8 @@ https://huggingface.co/segmind/SSD-1B
 
 ![Screenshot 2023-10-24 153135](https://github.com/camenduru/SSD-1B-colab/assets/54370274/76b4c4e5-e2c1-485f-9d0d-9b583de02278)
 
-## Test segmind/SSD-1B vs stabilityai/stable-diffusion-xl-base-1.0
+## Test 
+### segmind/SSD-1B vs stabilityai/stable-diffusion-xl-base-1.0
 
 https://github.com/camenduru/SSD-1B-colab/assets/54370274/924ca0db-0e00-4a5c-8194-759f23bbe294
 
