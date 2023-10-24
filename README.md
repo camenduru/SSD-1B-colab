@@ -14,6 +14,7 @@ https://github.com/Nota-NetsPresso/BK-SDM <br />
 
 ## Paper
 https://arxiv.org/abs/2305.15798
+https://openreview.net/forum?id=bOVydU0XKC
 
 ## Model
 https://huggingface.co/segmind/SSD-1B
