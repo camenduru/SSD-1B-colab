@@ -28,16 +28,17 @@ https://huggingface.co/datasets/wanng/midjourney-v5-202304-clean <br />
 ![Screenshot 2023-10-24 153135](https://github.com/camenduru/SSD-1B-colab/assets/54370274/76b4c4e5-e2c1-485f-9d0d-9b583de02278)
 
 
-## Test 1
-### segmind/SSD-1B vs stabilityai/stable-diffusion-xl-base-1.0
+
+## segmind/SSD-1B vs stabilityai/stable-diffusion-xl-base-1.0
+
+#### Test 1
 
 1.29 it/s 13.8GB VRAM to 2.07 it/s 8.3GB VRAM (60% Speed 🚀 -39% VRAM Usage With T4)
 
 https://github.com/camenduru/SSD-1B-colab/assets/54370274/499175b9-0742-4d94-8961-e2ca00bd6684
 
 
-## Test 2 Without CPU Offload
-### segmind/SSD-1B vs stabilityai/stable-diffusion-xl-base-1.0
+#### Test 2 Without CPU Offload
 
 1.29 it/s 13.8GB VRAM to 2.07 it/s 11.4GB VRAM (60% Speed 🚀 -17% VRAM Usage With T4)
 
